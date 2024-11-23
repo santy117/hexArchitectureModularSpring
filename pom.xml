@@ -9,9 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>service</module>
-        <module>api</module>
-        <module>model</module>
+        <module>application</module>
+        <module>infrastructure</module>
+        <module>domain</module>
+        <module>bootloader</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -25,11 +26,6 @@
     </properties>
     <dependencyManagement>
         <dependencies>
-            <dependency>
-                <artifactId>api</artifactId>
-                <groupId>org.example</groupId>
-                <version>1.0-SNAPSHOT</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 

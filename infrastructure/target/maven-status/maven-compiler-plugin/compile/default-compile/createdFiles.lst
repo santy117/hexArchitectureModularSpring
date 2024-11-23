@@ -1,0 +1,5 @@
+org\example\PTSantiago\input\mapper\BalanceDtoMapperImpl.class
+org\example\PTSantiago\input\controller\PaymentsController.class
+com\example\api\PaymentsApi.class
+com\example\models\BalanceDTO.class
+org\example\PTSantiago\input\mapper\BalanceDtoMapper.class
