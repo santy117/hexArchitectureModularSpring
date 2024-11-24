@@ -1,4 +1,4 @@
-package org.example.PTSantiago.usecase;
+package org.example.PTSantiago.service;
 
 import org.example.PTSantiago.model.Balance;
 

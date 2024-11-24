@@ -4,7 +4,7 @@ import com.example.api.PaymentsApi;
 import com.example.models.BalanceDTO;
 import org.example.PTSantiago.input.mapper.BalanceDtoMapper;
 
-import org.example.PTSantiago.usecase.PaymentsService;
+import org.example.PTSantiago.service.PaymentsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

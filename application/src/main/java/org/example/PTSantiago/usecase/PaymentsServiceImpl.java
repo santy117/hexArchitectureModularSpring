@@ -1,8 +1,8 @@
-package org.example.PTSantiago.service;
+package org.example.PTSantiago.usecase;
 
 import org.example.PTSantiago.model.Balance;
 import org.example.PTSantiago.repository.BalanceRepository;
-import org.example.PTSantiago.usecase.PaymentsService;
+import org.example.PTSantiago.service.PaymentsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
