@@ -1,4 +1,4 @@
-package org.example.PTSantiago.input.mapper;
+package org.example.PTSantiago.output.mapper;
 
 import com.example.models.BalanceDTO;
 import org.example.PTSantiago.model.Balance;
