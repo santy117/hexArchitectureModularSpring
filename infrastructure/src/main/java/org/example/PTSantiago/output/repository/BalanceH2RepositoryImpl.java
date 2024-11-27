@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class BalanceJPARepositoryImpl implements BalanceRepository {
+public class BalanceH2RepositoryImpl implements BalanceRepository {
 
     @Autowired
     BalanceJPARepository balanceJPARepository;
